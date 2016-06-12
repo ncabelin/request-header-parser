@@ -1,3 +1,4 @@
-# Request Header Parser
-### Free Code Camp Project # 2
-1. App returns JSON of IP address, language and operating system by browser
+# Request Header Parser API
+### Back-end Project # 2
+1. App returns JSON with info on your browser's IP address, language and operating system.
+2. Access app at https://request-header-parser-nc.herokuapp.com.
